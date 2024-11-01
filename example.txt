@@ -1,3 +1,4 @@
 example.txt
 dfrf
 jmkj
+аа
